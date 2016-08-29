@@ -3,6 +3,7 @@
 ## Day 1 - Defining Data Journalism
 
 **Outline**
+
 1. Introduction
   1. Instructor Info - You are special to me!
   2. Student Information Sheet
