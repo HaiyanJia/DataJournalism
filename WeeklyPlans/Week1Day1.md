@@ -1,8 +1,8 @@
-*Week 1 Overview*
+# Week 1 Overview
 
-Day 1 - Defining Data Journalism
+## Day 1 - Defining Data Journalism
 
-Outline
+**Outline**
 1. Introduction
   1.1. Instructor Info - You are special to me!
   1.2. Student Information Sheet
