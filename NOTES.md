@@ -1,6 +1,6 @@
 # Notes
 
-Everything points to the conclusion that the phrase 'the language of art' is more than a loose metaphor, that even to describe the visible world in images we need a developed system of schemata. -E. H. Gombrich Art and Illusion, 1959 (p. 76) 
+Everything points to the conclusion that the phrase 'the language of art' is more than a loose metaphor, that even to describe the visible world in images we need a developed system of schemata. -E. H. Gombrich Art and Illusion, 1959 (p. 76)
 
 -https://knightcenter.utexas.edu/blog/data-journalism-resources-help-reporters-get-started-collecting-and-analyzing-data
 +[Data Journalism Resources Help Reporters Get Started Collecting and Analyzing Data](https://knightcenter.utexas.edu/blog/data-journalism-resources-help-reporters-get-started-collecting-and-analyzing-data)
@@ -21,4 +21,3 @@ https://web.archive.org/web/20130401033822/http://www.opendatacookbook.net/wiki/
 
 How to get started with data journalism in your newsroom
 https://www.americanpressinstitute.org/publications/reports/strategy-studies/how-to-get-started-data/
-
