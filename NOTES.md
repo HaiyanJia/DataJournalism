@@ -24,3 +24,6 @@ https://www.americanpressinstitute.org/publications/reports/strategy-studies/how
 
 Helpful Tools for Data Storytelling:
 http://blog.hubspot.com/marketing/toolbox-for-data-storytelling#sm.00000kjodbt6vueh9t2nyt3bh65su
+
+Data Storytelling:
+http://www.juiceanalytics.com/writing/the-ultimate-collection-of-data-storytelling-resources
