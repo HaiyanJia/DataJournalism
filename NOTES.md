@@ -21,3 +21,6 @@ https://web.archive.org/web/20130401033822/http://www.opendatacookbook.net/wiki/
 
 How to get started with data journalism in your newsroom
 https://www.americanpressinstitute.org/publications/reports/strategy-studies/how-to-get-started-data/
+
+Helpful Tools for Data Storytelling:
+http://blog.hubspot.com/marketing/toolbox-for-data-storytelling#sm.00000kjodbt6vueh9t2nyt3bh65su
