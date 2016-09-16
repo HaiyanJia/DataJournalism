@@ -27,3 +27,9 @@ http://blog.hubspot.com/marketing/toolbox-for-data-storytelling#sm.00000kjodbt6v
 
 Data Storytelling:
 http://www.juiceanalytics.com/writing/the-ultimate-collection-of-data-storytelling-resources
+
+Storytelling course:
+https://www.lynda.com/Excel-tutorials/Change-over-time/435230/495535-4.html
+
+BU data storytelling:
+http://www.bu.edu/com/data-storytelling/
