@@ -33,3 +33,6 @@ https://www.lynda.com/Excel-tutorials/Change-over-time/435230/495535-4.html
 
 BU data storytelling:
 http://www.bu.edu/com/data-storytelling/
+
+Debate Meter: Real-Time Visual Analytics of Twitter
+http://debatemeter.com/
